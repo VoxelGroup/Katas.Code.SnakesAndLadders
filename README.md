@@ -77,8 +77,8 @@ The first feature we want implemented is the ability to move your token across t
     
 ## General Requirements
 
-- Application must use the console for input and output
-- Use whatever language and frameworks you want. (provide instructions on how to run the application)
+- Application must use the console for input and output.
+- Use an object oriented languaje, preferably C#. (provide instructions on how to run the application)
 - Implement the requirements focusing on writing the best code you can produce.
 
 ## Code submission
