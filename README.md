@@ -82,7 +82,7 @@ The first feature we want implemented is the ability to move your token across t
 - Implement the requirements focusing on writing the best code you can produce.
 
 ## Evaluation
-- Produce code that is readable and maintainable, object oriented design principles.
+- Produce code that is readable and maintainable, using object oriented design principles.
 - UATs should be backed up by test.
 
 ## Code submission
