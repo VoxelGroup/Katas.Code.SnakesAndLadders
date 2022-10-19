@@ -12,7 +12,7 @@ From a technical point of view, the implementation of this game needs to be plat
 
 ![board](/img/snakesandladdersboard.jpg)
 
-The only feature we want implemented is the ability to move your token across the board using dice rolls. Players will need the ability to roll a dice, move their token the number of squares indicated by the dice roll and should win if they land on the final square. The feature is splitted in three user stories. The rest of the User Stories like the ladders are not needed.
+The only features we want implemented are the ones explained in the user stories below. First is the ability to move your token across the board using dice rolls. Players will need the ability to roll a dice, move their token the number of squares indicated by the dice roll and should win if they land on the final square. The feature is splitted in three user stories. Other features, such as the introduction of snake and ladders, are not required!
 
 ### US 1 - Token Can Move Across the Board
     As a player
